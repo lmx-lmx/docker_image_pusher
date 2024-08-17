@@ -3,3 +3,4 @@ mysql:5.7
 redis
 elasticsearch:7.4.2
 kibana:7.4.2
+rabbitmq
