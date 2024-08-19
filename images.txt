@@ -5,3 +5,4 @@ elasticsearch:7.4.2
 kibana:7.4.2
 rabbitmq
 centos
+java:8
