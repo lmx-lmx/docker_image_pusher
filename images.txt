@@ -6,3 +6,4 @@ kibana:7.4.2
 rabbitmq
 centos
 mysql:8.0
+java:8
