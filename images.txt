@@ -7,3 +7,4 @@ rabbitmq
 centos
 mysql:8.0
 openjdk:8
+coredns:1.8.4
