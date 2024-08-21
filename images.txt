@@ -7,4 +7,4 @@ rabbitmq
 centos
 mysql:8.0
 openjdk:8
-openjdk:1.8.4
+openjdk:11
