@@ -8,5 +8,4 @@ centos
 mysql:8.0
 openjdk:8
 openjdk:11
-coredns
-prometheus
+bitnami/prometheus:latest
