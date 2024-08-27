@@ -10,3 +10,4 @@ openjdk:8
 openjdk:11
 bitnami/prometheus:latest
 bitnami/node-exporter:latest
+grafana/grafana
