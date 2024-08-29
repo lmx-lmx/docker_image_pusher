@@ -11,3 +11,4 @@ openjdk:11
 bitnami/prometheus:latest
 bitnami/node-exporter:latest
 grafana/grafana
+ollama/ollama
